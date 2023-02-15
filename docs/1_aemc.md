@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 1) App Engine Studio Setup
-parent: App Engine Management Center
+parent: Extend CWF
 nav_order: 10
 ---
 
