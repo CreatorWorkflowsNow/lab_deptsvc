@@ -17,7 +17,7 @@ You've probably gotten the hang of creating new tables at this point, so we'll s
     Select **Auto number**\
     Set the **Prefix** field to **DEPTINQUIRY**
 
-    ![Inquiry Table Image 1](/docs/images/inq_1.png)
+    ![Inquiry Table Image 1](/docs/exercise_3_data_model/images/inq_1.png)
 
 2. Configure the permissions to match the Dept Issue table where the admin role has full permissions and the user role does not have **Delete** rights
 
