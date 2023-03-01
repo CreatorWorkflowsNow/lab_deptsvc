@@ -21,23 +21,23 @@ The Dept Issue table will be used to allow users to submit issues encountered in
     Set the **Table label** field to Dept Issue Select **Auto number**\
     Set the **Prefix** field to **DEPTISSUE**
 
-    ![Issue Table Image 1](../images/iss_1.png)
+    ![Issue Table Image 1](images/iss_1.png)
 
 2. Set the permissions the same way as the previous table
 
-    ![Issue Table Image 2](../images/base_8.png)
+    ![Issue Table Image 2](images/base_8.png)
 
 3. Select **Edit table** once the table has been created
 
 4. Then select the **Form views** link to navigate to the form view for the Dept Issue Table
 
-    ![Issue Table Image 3](../images/iss_2.png)
+    ![Issue Table Image 3](images/iss_2.png)
 
 5. Remove the **Configuration item**, **Active** and **Parent** fields
     Add the **Opened** and **Opened by** fields
     Select **Save** in the upper right
 
-    ![Issue Table Image 4](../images/iss_3.png)
+    ![Issue Table Image 4](images/iss_3.png)
 
 [Next][NEXT]{: .btn .btn-purple }
 
