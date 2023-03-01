@@ -17,14 +17,14 @@ The application in this lab will utilize several different tables and catalog it
 
 1. Navigate to **All > Content Taxonomy > Topics**
 
-    ![EC Setup Image 1](/docs/exercise_1_ec_setup/images/ec_setup_1.png)
+    ![EC Setup Image 1](../images/ec_setup_1.png)
 
 2. Click **New**
 3. Enter **Dept Services** for **Name**
 4. Enter **Employee** for **Taxonomy**
 5. Click **Submit**
 
-    ![EC Setup Image 2](/docs/exercise_1_ec_setup/images/ec_setup_2.png)
+    ![EC Setup Image 2](../images/ec_setup_2.png)
 
 
 [Next][NEXT]{: .btn .btn-purple }

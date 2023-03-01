@@ -24,6 +24,4 @@ Example departments include marketing, badging, mergers and acquisitions, treasu
 
 [Get started Now][getStarted]{: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
-[getStarted]: ../docs/exercise_0_overview/
-
-[NEXT]: ../../exercise_1_ec_setup/ec_setup
+[getStarted]: /docs/exercise_0_overview/

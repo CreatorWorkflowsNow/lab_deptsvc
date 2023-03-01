@@ -10,7 +10,7 @@ nav_order: 5
 
 Departments frequently use email, spreadsheets and manual processes to manage requests for services that they might provide. When consumers of the department’s services have questions or run into problems, they frequently utilize ad-hoc communication to engage the department. This lab will focus on these three facets of service delivery.
 
-![Use Case Overview](/docs/0_overview/images/use_case_overview.png)
+![Use Case Overview](../exercise_0_overview/images/use_case_overview.png)
 
 ## Personas
 
